@@ -1,0 +1,5 @@
+- Init a Cluster
+- Join to a cluster as manager or worker
+
+- Reincoporate to a new cluster
+- Migrate to new cluster
